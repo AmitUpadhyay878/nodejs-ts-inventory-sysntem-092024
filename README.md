@@ -53,5 +53,5 @@ Before you begin, ensure you have met the following requirements:
   ### Development dependencies:
    
      ```bash   
-     npm install --save-dev tsc-alias ts-node-dev tsconfig-paths 
-     ```  
+      npm install --save-dev tsc-alias ts-node-dev tsconfig-paths 
+      
