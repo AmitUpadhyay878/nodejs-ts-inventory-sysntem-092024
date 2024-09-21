@@ -45,10 +45,11 @@ Before you begin, ensure you have met the following requirements:
 
  ## below packages are used
    ## copy below line
+
     ```bash
     npm install express @types/express cors dotenv bcrypt @types/bcrypt prisma @prisma/client
-     ```
-
+    ```
+   
      ```bash   
      npm install --save-dev tsc-alias ts-node-dev tsconfig-paths    
      ```  
