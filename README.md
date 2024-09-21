@@ -18,24 +18,30 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    git clone https://github.com/AmitUpadhyay878/nodejs-ts-inventory-sysntem-092024.git
 
+   ```
+
  2. check typescript version:
 
   ```bash 
   npx tsc -v
+  ```
 
  3. install typescript into our project
    ```bash
    npm i -D typescript @types/node   
+   ```
 
  4. create a typescript.config file
 
     ```bash
     npx tsc --init   
+    ```
  
  5. install Prisma with mpngodb datasource provider
 
    ```bash
    npx prisma init --datasource-provider mongodb      
+   ```
 
  ## below packages are used
 
