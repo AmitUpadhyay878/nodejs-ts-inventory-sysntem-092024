@@ -8,7 +8,7 @@ Before you begin, ensure you have met the following requirements:
 
 - [Node.js](https://nodejs.org/) (v20.14.0)
 - [TypeScript](https://www.typescriptlang.org/) (v5.6.2)
-- [Prisma](https://www.prisma.io/) (vX.X.X)
+- [Prisma](https://www.prisma.io/) (v5.19.1)
 - Any other dependencies
 
 ## Installation
@@ -37,7 +37,7 @@ Before you begin, ensure you have met the following requirements:
     npx tsc --init   
     ```
  
- 5. install Prisma with mpngodb datasource provider
+ 5. install Prisma with mongodb datasource provider
 
    ```bash
    npx prisma init --datasource-provider mongodb      
